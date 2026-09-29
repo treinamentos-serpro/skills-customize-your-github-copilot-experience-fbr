@@ -26,18 +26,3 @@ Os cabeçalhos das seções devem usar EXATAMENTE o mesmo texto do template, inc
    - Forneça exemplos de entrada/saída em blocos de código se útil.
 
 Não inclua seções extras a menos que explicitamente especificado.
-
-## 3. Boas Práticas
-
-- Mantenha a linguagem clara e objetiva.
-- Use exemplos concretos sempre que possível.
-- Revise o conteúdo para evitar erros gramaticais e de digitação.
-- Certifique-se de que todos os links e referências estejam corretos.
-- Mantenha a consistência no uso de termos e formatação em todo o documento.
-- Sempre siga as diretrizes de estilo e formatação definidas no template.
-- Atualize o conteúdo regularmente para refletir mudanças no template ou nas diretrizes do projeto.
-- Solicite feedback dos alunos para melhorar a clareza e a eficácia das instruções.
-- Garanta que todas as instruções estejam alinhadas com os objetivos de aprendizado do curso.
-- Sempre verifique se o conteúdo está atualizado com as melhores práticas e padrões educacionais atuais.
-- Incentive a colaboração entre os alunos, promovendo discussões e compartilhamento de soluções.
-- Forneça feedback construtivo e orientações adicionais quando necessário para apoiar o aprendizado contínuo.
